@@ -4,4 +4,4 @@ A Github Application that listen to any incoming pull requests, and correct spel
 
 ## License
 
-This library is licensed under the MIT License.
+This library is licensed under the MIT License
